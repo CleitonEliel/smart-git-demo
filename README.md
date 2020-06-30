@@ -1,1 +1,1 @@
-# smart-git
+# smart-git-demo
